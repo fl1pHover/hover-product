@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ecf9615-dc53-483b-a0be-5e8230f36fbb"
+      }
+    },
+    "owner": "fl1phover"
   }
 }
